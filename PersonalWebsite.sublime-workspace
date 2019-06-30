@@ -1,0 +1,1017 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"w-",
+				"w-100 \tBootstrap 4.3 Class"
+			],
+			[
+				"propert",
+				"property_id"
+			],
+			[
+				"right",
+				"float-right \tBootstrap 4.3 Class"
+			],
+			[
+				"align",
+				"align-middle \tBootstrap 4.3 Class"
+			],
+			[
+				"user",
+				"userInfo"
+			],
+			[
+				"align-i",
+				"align-middle \tBootstrap 4.3 Class"
+			],
+			[
+				"align-items",
+				"align-items-center \tBootstrap 4.3 Class"
+			],
+			[
+				"img",
+				"img-thumbnail \tBootstrap 4.3 Class"
+			],
+			[
+				"input",
+				"inputAddress"
+			],
+			[
+				"tenants",
+				"tenantsTotal"
+			],
+			[
+				"w",
+				"w-100 \tBootstrap 4.3 Class"
+			],
+			[
+				"table-bor",
+				"table-borderless \tBootstrap 4.3 Class"
+			],
+			[
+				"btn-",
+				"btn-secondary \tBootstrap 4.3 Class"
+			],
+			[
+				"btn",
+				"btn-primary \tBootstrap 4.3 Class"
+			],
+			[
+				"col-sm-",
+				"col-sm-12 \tBootstrap 4.3 Class"
+			],
+			[
+				"mt",
+				"mt-3 \tBootstrap 4.3 Class"
+			],
+			[
+				"image",
+				"imageArray"
+			],
+			[
+				"imag",
+				"imagePath"
+			],
+			[
+				"tex-",
+				"text-transform\tproperty"
+			],
+			[
+				"text-",
+				"text-transform\tproperty"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"He",
+				"Helvetica"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"autho",
+				"authorization_code"
+			],
+			[
+				"acces",
+				"access_token"
+			],
+			[
+				"respon",
+				"response_type"
+			],
+			[
+				"redi",
+				"redirect_uri"
+			],
+			[
+				"dis",
+				"display-1"
+			],
+			[
+				"one",
+				"one"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"prodcu",
+				"product_name"
+			],
+			[
+				"sh",
+				"shipping_method_id"
+			],
+			[
+				"order",
+				"order_data"
+			],
+			[
+				"new",
+				"new_customer_form"
+			],
+			[
+				"woocomm",
+				"woocommerce-Button"
+			],
+			[
+				"verifi",
+				"verification-content"
+			],
+			[
+				"exa",
+				"example-container"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"NHS",
+				"NHS_Job_Title"
+			],
+			[
+				"white",
+				"whitelisted_domains"
+			],
+			[
+				"nsh",
+				"nhs_domains"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"phpfmt",
+				"phpfmt: format now"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package contr",
+				"Package Control: Install Package"
+			],
+			[
+				"beay",
+				"Beautify::Beautify File"
+			],
+			[
+				"beau",
+				"Beautify::Beautify File"
+			],
+			[
+				"css",
+				"Tidy CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"PHP CodeBeautifier"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib2,os; pf='Package Control.sublime-package'; "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/peterwhite/Documents/GitHub/personalwebsite"
+	],
+	"file_history":
+	[
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Traits/MultitenantableProperty.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Http/Controllers/ProfilesController.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Http/Controllers/TenantsController.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/views/properties/index.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/views/tenants/show.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/views/tenants/edit.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/views/tenants/index.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/views/landlords/index.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/views/stream/stream.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/views/landlords/edit.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Http/Controllers/LandlordsController.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/views/stream/show.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/views/welcome.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/views/layouts/app.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Http/Controllers/StreamController.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/config/app.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/bootstrap/app.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/views/properties.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Http/Controllers/Auth/Auth0IndexController.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/vendor/auth0/auth0-php/src/Auth0.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/config/laravel-auth0.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/views/dashboard.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/vendor/nesbot/carbon/src/Carbon/Traits/Difference.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/views/profiles/edit.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/routes/web.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/vendor/spatie/laravel-activitylog/src/ActivityLogger.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/.env",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/User.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/config/auth.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Providers/AuthServiceProvider.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Providers/AppServiceProvider.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/vendor/auth0/login/src/controllers/Auth0Controller.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Http/Controllers/PropertiesController.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Landlord.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/views/properties/edit.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/database/migrations/2019_06_27_093627_add_info_to_user.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/database/migrations/2019_06_17_130309_add_info_to_tenants.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/views/tenants/create.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Repositories/CustomUserRepository.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/composer.json",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Http/helpers.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/CustomActivityLogger.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/vendor/auth0/login/src/Auth0/Login/Auth0UserProvider.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Providers/ExtendedActivityLogger.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/vendor/laravel/framework/src/Illuminate/Contracts/Auth/UserProvider.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Traits/createStream.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/config/activitylog.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Tenant.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Properties.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/views/properties/create.blade.php",
+		"/private/var/folders/ft/wqq27bvn0kv17pkg_6gkfdtm0000gn/T/0e9f4b03-e7d4-4b84-8b1a-1929f9e19fad/public_html/wp-content/themes/NJL/library/css/style.css",
+		"/Users/peterwhite/Library/Application Support/Sublime Text 3/Packages/phpfmt/message",
+		"/Users/peterwhite/Library/Application Support/Sublime Text 3/Packages/phpcbf/Default (OSX).sublime-keymap",
+		"/Users/peterwhite/Library/Application Support/Sublime Text 3/Packages/User/Default.sublime-keymap",
+		"/Users/peterwhite/Library/Application Support/Sublime Text 3/Packages/phpfmt/phpfmt.sublime-settings",
+		"/Users/peterwhite/Library/Application Support/Sublime Text 3/Packages/phpfmt/Default.sublime-keymap",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Stream.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/database/migrations/2019_06_24_162550_add_sub_to_tenants.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/views/stream.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/database/migrations/2019_06_24_073858_create_bouncer_tables.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/database/migrations/2019_06_24_155325_create_stream_table.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/views/issues.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/node_modules/bootstrap/dist/css/bootstrap.css",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/database/migrations/2019_06_18_120927_add_landlords.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Http/Middleware/CheckAbility.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Http/Kernel.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Http/Controllers/Controller.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/views/landlords/create.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/views/landlords/show.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Traits/Multitenantable.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Agent.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/database/migrations/2019_06_18_121422_add_landlords_user_i_d.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/database/migrations/2019_06_18_100534_create_agents_table.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/database/migrations/2019_06_18_101605_add_agentto_properties.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/database/migrations/2019_06_18_101918_adduser_idto_agents.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/views/tenants/indexByProperty.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/views/properties/show.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/database/migrations/2019_06_14_121221_create_tenants_table.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/database/migrations/2019_06_06_153852_properties.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Http/Controllers/Auth/RegisterController.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Http/Middleware/CheckJWT.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Console/Kernel.php",
+		"/Users/peterwhite/Downloads/download (2)",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/views/layout.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/vendor/spatie/geocoder/src/GeocoderServiceProvider.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/config/geocoder.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/vendor/spatie/geocoder/.editorconfig",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Traits/UploadTrait.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/config/filesystems.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/views/properties/index.cards.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/database/migrations/2019_06_12_113119_add_created_by_user_id_to_properties_table.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Traits/usesUuid.php",
+		"/private/var/folders/ft/wqq27bvn0kv17pkg_6gkfdtm0000gn/T/cad264ed-3859-49c8-b105-5266008b0f59/public_html/wp-content/themes/NJL/library/css/style.css",
+		"/Users/peterwhite/Documents/GitHub/TenancyStreamJekyll/_posts/2019-06-12-Hiscox.md",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Collection.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/vendor/firebase/php-jwt/src/JWT.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/views/people.blade.php",
+		"/private/var/folders/ft/wqq27bvn0kv17pkg_6gkfdtm0000gn/T/1efd96cc-6544-4815-af20-afd4e1ae6aa1/public_html/wp-content/themes/NJL/library/css/style.css",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/sass/app.scss",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/resources/sass/_variables.scss",
+		"/Users/peterwhite/Desktop/Laravel/freeCodeGram/app/Http/Controllers/ProfilesController.php",
+		"/Users/peterwhite/Desktop/Laravel/freeCodeGram/app/Profile.php",
+		"/Users/peterwhite/Desktop/Laravel/freeCodeGram/app/Post.php",
+		"/Users/peterwhite/Desktop/Laravel/freeCodeGram/resources/views/posts/index.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/freeCodeGram/app/User.php",
+		"/Users/peterwhite/Desktop/Laravel/freeCodeGram/app/Http/Controllers/HomeController.php",
+		"/Users/peterwhite/Desktop/Laravel/freeCodeGram/app/Http/Controllers/PostsController.php",
+		"/Users/peterwhite/Desktop/Laravel/freeCodeGram/resources/views/posts/show.blade.php",
+		"/Users/peterwhite/Desktop/Laravel/freeCodeGram/routes/web.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Property.php",
+		"/Users/peterwhite/Desktop/Laravel/freeCodeGram/database/migrations/2019_06_03_154106_create_posts_table.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/database/database.sqlite",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/config/database.php",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/.gitattributes",
+		"/Users/peterwhite/Desktop/Laravel/Tenancy-Stream/app/Http/Middleware/EnforceTenancy.php",
+		"/Users/peterwhite/Desktop/Laravel/TenancyStream/database/migrations/2019_06_04_172927_properties.php",
+		"/Users/peterwhite/Desktop/Learning Laravel/freeCodeGram/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php",
+		"/Users/peterwhite/Desktop/Learning Laravel/freeCodeGram/app/User.php",
+		"/Users/peterwhite/Desktop/Learning Laravel/freeCodeGram/app/Mail/NewUserWelcomeMail.php",
+		"/Users/peterwhite/Desktop/Learning Laravel/freeCodeGram/app/Http/Controllers/ProfilesController.php",
+		"/Users/peterwhite/Desktop/Learning Laravel/freeCodeGram/app/Http/Controllers/Auth/LoginController.php",
+		"/Users/peterwhite/Desktop/Learning Laravel/freeCodeGram/resources/views/posts/index.blade.php",
+		"/Users/peterwhite/Desktop/Learning Laravel/freeCodeGram/app/Http/Controllers/PostsController.php",
+		"/Users/peterwhite/Desktop/Learning Laravel/freeCodeGram/routes/web.php",
+		"/Users/peterwhite/Desktop/Learning Laravel/freeCodeGram/resources/js/app.js"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 44.0
+	},
+	"pinned_build_system": "",
+	"project": "PersonalWebsite.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"profiles",
+				"app/Http/Controllers/ProfilesController.php"
+			],
+			[
+				"multi",
+				"app/Traits/MultitenantableProperty.php"
+			],
+			[
+				"tenant",
+				"app/Http/Controllers/TenantsController.php"
+			],
+			[
+				"landlords",
+				"app/Http/Controllers/LandlordsController.php"
+			],
+			[
+				"app.blade",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"welcome.",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"properties",
+				"resources/views/properties.blade.php"
+			],
+			[
+				"app.bl",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"app.p",
+				"config/app.php"
+			],
+			[
+				"streamco",
+				"app/Http/Controllers/StreamController.php"
+			],
+			[
+				"auth0.php",
+				"config/laravel-auth0.php"
+			],
+			[
+				"auth0.",
+				"vendor/auth0/auth0-php/src/Auth0.php"
+			],
+			[
+				"app.",
+				"config/app.php"
+			],
+			[
+				"streamcont",
+				"app/Http/Controllers/StreamController.php"
+			],
+			[
+				"config/app",
+				"config/app.php"
+			],
+			[
+				"providerre",
+				"vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php"
+			],
+			[
+				"auth",
+				"config/auth.php"
+			],
+			[
+				"providerrep",
+				"vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php"
+			],
+			[
+				"appser",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"authseri",
+				"app/Providers/AuthServiceProvider.php"
+			],
+			[
+				"activitylo",
+				"vendor/spatie/laravel-activitylog/src/ActivityLogger.php"
+			],
+			[
+				"AuthController",
+				"vendor/auth0/login/src/controllers/Auth0Controller.php"
+			],
+			[
+				"authController",
+				"vendor/auth0/login/src/controllers/Auth0Controller.php"
+			],
+			[
+				"Auth0IndexController",
+				"app/Http/Controllers/Auth/Auth0IndexController.php"
+			],
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"stream.b",
+				"resources/views/stream/stream.blade.php"
+			],
+			[
+				"profile",
+				"app/Http/Controllers/ProfilesController.php"
+			],
+			[
+				"app.b",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"welcome",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"streamcon",
+				"app/Http/Controllers/StreamController.php"
+			],
+			[
+				"edit",
+				"resources/views/properties/edit.blade.php"
+			],
+			[
+				"propertiesco",
+				"app/Http/Controllers/PropertiesController.php"
+			],
+			[
+				"add_info",
+				"database/migrations/2019_06_27_093627_add_info_to_user.php"
+			],
+			[
+				"app.blad",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"multiten",
+				"app/Traits/MultitenantableProperty.php"
+			],
+			[
+				"stream.bl",
+				"resources/views/stream/stream.blade.php"
+			],
+			[
+				"web.pp",
+				"routes/web.php"
+			],
+			[
+				"app.php",
+				"config/app.php"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"customuser",
+				"app/Repositories/CustomUserRepository.php"
+			],
+			[
+				"appserv",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"web.p",
+				"routes/web.php"
+			],
+			[
+				"userpro",
+				"vendor/laravel/framework/src/Illuminate/Contracts/Auth/UserProvider.php"
+			],
+			[
+				"config/auth",
+				"config/auth.php"
+			],
+			[
+				"CustomUserRepository.php",
+				"app/Repositories/CustomUserRepository.php"
+			],
+			[
+				"userprov",
+				"vendor/laravel/framework/src/Illuminate/Contracts/Auth/UserProvider.php"
+			],
+			[
+				"userprovider",
+				"vendor/auth0/login/src/Auth0/Login/Auth0UserProvider.php"
+			],
+			[
+				"activity",
+				"vendor/spatie/laravel-activitylog/src/ActivityLogger.php"
+			],
+			[
+				"ActivityLogger.php",
+				"vendor/spatie/laravel-activitylog/src/ActivityLogger.php"
+			],
+			[
+				"tenantsc",
+				"app/Http/Controllers/TenantsController.php"
+			],
+			[
+				"dashbo",
+				"resources/views/dashboard.blade.php"
+			],
+			[
+				"servicepro",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"app/Http/Kernel.php",
+				"app/Http/Kernel.php"
+			],
+			[
+				"web.",
+				"routes/web.php"
+			],
+			[
+				"AppServiceProvider",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"web.php",
+				"routes/web.php"
+			],
+			[
+				"config/app.",
+				"config/app.php"
+			],
+			[
+				"tenants",
+				"app/Http/Controllers/TenantsController.php"
+			],
+			[
+				"propertiesc",
+				"app/Http/Controllers/PropertiesController.php"
+			],
+			[
+				"create.bl",
+				"resources/views/properties/create.blade.php"
+			],
+			[
+				"index.blade",
+				"resources/views/tenants/index.blade.php"
+			],
+			[
+				"index.b",
+				"resources/views/properties/index.blade.php"
+			],
+			[
+				"tenan",
+				"app/Http/Controllers/TenantsController.php"
+			],
+			[
+				"edit.blade",
+				"resources/views/properties/edit.blade.php"
+			],
+			[
+				"user.",
+				"app/User.php"
+			],
+			[
+				"properti",
+				"app/Http/Controllers/PropertiesController.php"
+			],
+			[
+				"propertiesC",
+				"app/Http/Controllers/PropertiesController.php"
+			],
+			[
+				"propertiescon",
+				"app/Http/Controllers/PropertiesController.php"
+			],
+			[
+				"/CustomUserRepository.php",
+				"app/Repositories/CustomUserRepository.php"
+			],
+			[
+				"ker",
+				"app/Http/Kernel.php"
+			],
+			[
+				"kerne",
+				"app/Console/Kernel.php"
+			],
+			[
+				"chec",
+				"app/Http/Middleware/CheckJWT.php"
+			],
+			[
+				"config spatie",
+				"vendor/spatie/geocoder/.editorconfig"
+			],
+			[
+				"GeocoderServiceProvider",
+				"vendor/spatie/geocoder/src/GeocoderServiceProvider.php"
+			],
+			[
+				"layout",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/views/layout.blade.php"
+			],
+			[
+				"file",
+				"config/filesystems.php"
+			],
+			[
+				"show",
+				"resources/views/properties/show.blade.php"
+			],
+			[
+				"index.bla",
+				"resources/views/properties/index.blade.php"
+			],
+			[
+				"register",
+				"app/Http/Controllers/Auth/RegisterController.php"
+			],
+			[
+				"JWT.php",
+				"vendor/firebase/php-jwt/src/JWT.php"
+			],
+			[
+				"auth0",
+				"vendor/auth0/auth0-php/src/Auth0.php"
+			],
+			[
+				"create.blade",
+				"resources/views/properties/create.blade.php"
+			],
+			[
+				"index.bl",
+				"resources/views/properties/index.blade.php"
+			],
+			[
+				"layout.bla",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"user",
+				"app/User.php"
+			],
+			[
+				"propert",
+				"app/Properties.php"
+			],
+			[
+				"routes/web",
+				"routes/web.php"
+			],
+			[
+				"web.ph",
+				"routes/web.php"
+			],
+			[
+				"config/d",
+				"config/database.php"
+			],
+			[
+				"AppServiceProvider.php",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"welc",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"config/auth.php",
+				"config/auth.php"
+			],
+			[
+				"Auth0IndexController.php",
+				"app/Http/Controllers/Auth/Auth0IndexController.php"
+			],
+			[
+				"",
+				".gitattributes"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"config/",
+				"config/app.php"
+			],
+			[
+				"config",
+				"vendor/beyondcode/laravel-dump-server/config/config.php"
+			],
+			[
+				"data",
+				"config/database.php"
+			],
+			[
+				"regi",
+				"app/Http/Controllers/Auth/RegisterController.php"
+			],
+			[
+				"authser",
+				"app/Providers/AuthServiceProvider.php"
+			],
+			[
+				"kern",
+				"app/Console/Kernel.php"
+			],
+			[
+				"ten",
+				"config/tenancy.php"
+			],
+			[
+				"appservice",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"profileco",
+				"app/Http/Controllers/ProfilesController.php"
+			],
+			[
+				"postcon",
+				"app/Http/Controllers/PostsController.php"
+			],
+			[
+				"profiles c",
+				"app/Http/Controllers/ProfilesController.php"
+			],
+			[
+				"creates_pr",
+				"database/migrations/2019_06_04_112624_creates_profile_user_pivot_table.php"
+			],
+			[
+				"profile.php",
+				"app/Profile.php"
+			],
+			[
+				"createprofiles",
+				"database/migrations/2019_06_03_151151_create_profiles_table.php"
+			],
+			[
+				"postsco",
+				"app/Http/Controllers/PostsController.php"
+			],
+			[
+				"profile.bl",
+				"resources/views/profiles/edit.blade.php"
+			],
+			[
+				"postcont",
+				"app/Http/Controllers/PostsController.php"
+			],
+			[
+				"post.",
+				"app/Post.php"
+			],
+			[
+				"pos",
+				"app/Post.php"
+			],
+			[
+				"postcontro",
+				"app/Http/Controllers/PostsController.php"
+			],
+			[
+				"post",
+				"app/Post.php"
+			],
+			[
+				"profiles.",
+				"app/Http/Controllers/ProfilesController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

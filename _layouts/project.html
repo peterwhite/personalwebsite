@@ -1,0 +1,133 @@
+---
+layout: default
+---
+<style>
+.hero {
+    position: relative;
+    margin-top: 20px;
+    padding: 60px 0 100px;
+    background: #132930
+}
+
+@media only screen and (min-width:768px) {
+    .hero {
+        margin-top: 25px;
+        padding: 120px 0 180px
+    }
+}
+
+@media only screen and (min-width:1220px) {
+    .hero {
+        margin-top: 30px;
+        padding: 160px 0 220px
+    }
+}
+
+.hero h1 {
+    color: #fff
+}
+
+@media only screen and (min-width:768px) {
+    .hero h1 {
+        white-space: pre-line
+    }
+}
+
+.hero p {
+    color: rgba(255, 255, 255, .8)
+}
+
+@media only screen and (min-width:768px) {
+    .hero p {
+        margin-top: 25px
+    }
+}
+
+@media only screen and (min-width:1220px) {
+    .hero p {
+        margin-top: 30px
+    }
+}
+
+.hero .socials {
+    margin-top: 15px
+}
+
+@media only screen and (min-width:768px) {
+    .hero .socials {
+        margin-top: 25px
+    }
+}
+
+@media only screen and (min-width:1220px) {
+    .hero .socials {
+        margin-top: 30px
+    }
+}
+
+.hero .socials__item__link {
+    background: rgba(255, 255, 255, .8);
+    color: #132930
+}
+
+.hero .socials__item__link:hover {
+    background: #fff
+}
+
+.hero__image {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+        -webkit-transition: all 1s cubic-bezier(.2, .3, 0, 1);
+    -moz-transition: all 1s cubic-bezier(.2, .3, 0, 1);
+    -ms-transition: all 1s cubic-bezier(.2, .3, 0, 1);
+    -o-transition: all 1s cubic-bezier(.2, .3, 0, 1);
+    transition: all 1s cubic-bezier(.2, .3, 0, 1)
+}
+
+.hero__overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(19, 41, 48, .8)
+}
+.hero__image:hover{
+    -moz-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2)
+}
+
+.hero{
+     overflow: hidden; 
+}
+
+</style>
+<section class="hero hero--single">
+
+	<div class="hero__image" style="background-image: url({{page.featured_image}})" data-cms-original-style="background-image: url({{page.featured_image}})">
+		<div class="hero__overlay"></div>
+	</div>
+
+	<div class="wrap">
+
+		<h1>{{ page.title }}</h1>
+		<p>{{ page.subtitle }}</p>
+
+	</div>
+
+</section>
+
+<section class="single">
+
+	{{ page.content }}
+
+</section>
