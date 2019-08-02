@@ -8,3 +8,6 @@ _site/
 ### IntelliJ IDEA
 .idea/
 *.iml
+.DS_Store
+images/.DS_Store
+PersonalWebsite.sublime-workspace
