@@ -10,7 +10,7 @@ Back in January, myself (@[petewht](https://twitter.com/petewht)) and Bethan Vin
 
 To get to know everyone, we ran a workshop with an ambitious goal - to find the top blockers to startup growth in 2020 and find solutions.
 
-![](https://lh5.googleusercontent.com/TZGivnBVf3Z7oKK4ZW7yYrp1oRhaCeJNdA16OkfybGxpbmlXGcI4ZtqPTj4emaNLbY6sdUiUu3MT8blUlJZCpDu8e_0ys-Gd0qcOycnoAiY6PsYd5LbVofD3q3ShsSFGhRVFbPXq =347x260)
+![](/images/IMG_0736.jpeg)
 
 What surprised us most was that these blockers were commonplace, irrespective of sector.
 
@@ -40,7 +40,7 @@ Others had worked on their brand story, aiming to tell a more convincing story t
 
 Some had innovated their own recruitment technology, building an anonymous recruitment process to try and hire more underrepresented talent. [Beth talked about this at Lead Developer London back in 2019](https://www.bethanvincent.com/blog/2019/6/30/watch-my-talk-from-the-lead-developer-london-2019).
 
-![](https://lh5.googleusercontent.com/GaUPdgSA31bCnFn64Hu7B48OdHgT1-03_Q9opuhwwDNMe3Lm_KeYu9OCN0TouryjyUKj14wVNrH1TkIJ1U1p3tst3NSerzwzH7lICBor7_DSatf48syw4Wb_vCPQL4jYTUXFrmUn =398x265)
+![](/images/48119187468_bb4b86867e_o.jpg)
 
 ### Training
 
@@ -52,7 +52,7 @@ All companies agreed that working with the local and national government to shap
 
 Despite lower costs of living and improved quality of life versus London, Yorkshire still isn't an #1 choice for new tech talent.
 
-![](https://lh4.googleusercontent.com/Mln91llMw6IXN5H5RYgEgRiM-u6yfjD5RNvKB5PjGtXQD3Ze3Mk2yCdUz5IDtlNSRnwBOio-kxYDMplA-lAHAweZhr2JMIQaDHgL9LV6RVDXhzc7fUnAd6YFb6Nfq8vH1bnXdFG- =349x262)
+![](/images/brewtopia-square.jpg)
 
 We identified several key issues:
 
