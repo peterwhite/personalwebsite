@@ -1,4 +1,28 @@
 ---
 label: Blog Post
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: description
+  type: text
+  config:
+    required: false
+  label: description
+- name: featured_image
+  type: file
+  config:
+    maxSize: 250
+  label: featured_image
