@@ -106,4 +106,4 @@ We hope this article inspires Yorkshire makers, entrepreneurs, and innovators to
 
 We'll be running another Product Hunt event in the coming weeks.
 
-[For updates, join our Product Hunt Chapter here.](https://meetups.producthunt.com/leeds/%20)
+[For updates, join our Product Hunt Chapter here.](https://meetups.producthunt.com/leeds/)
