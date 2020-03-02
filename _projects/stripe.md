@@ -1,10 +1,9 @@
 ---
-title: Stripe
-subtitle: WordPress, Stripe, eCommerce
-description: Developed a Stripe Checkout payment gateway for WP eCommerce with full
-  SCA support.
+title: Table.co
+subtitle: WordPress, Elementor, SaaS
+description: Developed a marketing website for SaaS company Table.co
 date: 2019-08-01T13:58:31.000+00:00
-featured_image: "/images/projects/WPeCommerce.jpeg"
+featured_image: ''
 published: false
 
 ---
