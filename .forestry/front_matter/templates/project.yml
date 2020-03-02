@@ -17,3 +17,5 @@ fields:
 - type: file
   name: featured_image
   label: featured_image
+pages:
+- _projects/table-co.md
