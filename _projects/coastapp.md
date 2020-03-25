@@ -1,5 +1,5 @@
 ---
-title: CoastApp
+title: Coast
 subtitle: Wordpress, Advanced Custom Fields, SaaS
 description: Developed marketing website for SaaS company CoastApp. All content is
   editable with Advanced Custom Fields.
