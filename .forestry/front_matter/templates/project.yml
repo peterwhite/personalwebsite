@@ -18,4 +18,5 @@ fields:
   name: featured_image
   label: featured_image
 pages:
+- _projects/coastapp.md
 - _projects/table-co.md
