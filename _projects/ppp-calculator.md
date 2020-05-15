@@ -7,6 +7,5 @@ description: To help businesses across the US access COVID-19 loans, I built <a 
   raising brand awareness.
 date: 2020-05-14 23:00:00 +0000
 featured_image: "/images/screen-shot-2020-05-15-at-19.36.48.png"
-published: false
 
 ---
