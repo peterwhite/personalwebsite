@@ -18,6 +18,7 @@ fields:
   name: featured_image
   label: featured_image
 pages:
+- _projects/argon-jekyll-theme.md
 - _projects/coastapp.md
 - _projects/positivity.md
 - _projects/ppp-calculator.md
