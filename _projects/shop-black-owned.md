@@ -8,6 +8,5 @@ description: 'A tool to find and support Black-owned businesses across the US. <
 '
 date: 2020-06-25 23:00:00 +0000
 featured_image: "/images/sbo.jpeg"
-published: false
 
 ---
