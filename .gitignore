@@ -11,3 +11,4 @@ _site/
 .DS_Store
 images/.DS_Store
 PersonalWebsite.sublime-workspace
+node_modules
