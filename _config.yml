@@ -42,6 +42,9 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
+exclude:
+  - node_modules
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap

@@ -162,7 +162,7 @@ description: My random thoughts...
 
 <section class="blog">
 
-	<div class="content-wrap blog-wrap" style="text-align:center">
+	<div class="content-wrap blog-wrap">
         {% assign psize = site.posts | size %}
             {% if psize == 0 %} 
               <p>No posts...yet.</p>
@@ -177,11 +177,10 @@ description: My random thoughts...
 				<div class="post__image" style="background-image: url({{ post.featured_image  }})" data-cms-original-style="background-image: url({{ post.featured_image  }})"></div>
 			</div>
 
-			<div class="post__content-wrap">
-				<div class="post__content">
-					<h2 class="post__title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+			<div class="post__content-wrap single page__content">
+				<div class="px-4 mx-auto prose-sm prose post__content sm:prose lg:prose-lg xl:prose-xl">
+					<h2 class="post__title">{{ post.title }}</h2>
 					<p class="post__description">{{ post.description }}</p>
-                     <p class="post__readmore"><a href="{{ post.url }}">Read More...</a></p>
 				</div>
 			</div>
 		</a>

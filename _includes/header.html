@@ -1,25 +1,19 @@
-<header class="header">
+<header class="px-4 py-8 mb-12">
 
-	<div class="wrap">
+	<div class="flex flex-row justify-between font-sans md:mx-20 md:text-lg header">
 
-		{% if site.data.settings.header_settings.logo_image %}
-		<a href="/" class="header__logo">
-			<img src="{{ site.data.settings.header_settings.logo_image }}" class="header__logo__img">
-		</a>
-		{% else %}
-		<a href="/" class="header__title">
-			<small>Peter White</small>
-		</a>
-		{% endif %}
+		<div class="brand">
+			<a href="/" class="font-semibold header__title">
+				Peter White
+			</a>
+		</div>
+
 
 		<div class="menu">
-			<div class="menu__toggle js-menu-toggle">
-				<div class="menu__toggle__icon"><span></span></div>
-			</div>
 			<div class="menu__wrap">
-				<ul class="menu__list">
+				<ul class="flex flex-row space-x-4 md:space-x-8 menu__list wrap">
 					{% for item in site.data.settings.menu_settings.menu_items %}
-					<li class="menu__list__item">
+					<li class="text-gray-800 transition duration-150 ease-in-out hover:text-black focus:outline-none focus:text-gray-900">
 						<a href="{{ item.url }}" class="menu__list__item__link">{{ item.title }}</a>
 					</li>
 					{% endfor %}

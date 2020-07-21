@@ -1,69 +1,52 @@
 ---
-layout: default
-title: Meet Peter
+layout: page
+title: 'Meet Peter <span class="wave">👋</span>'
 description: Description
 featured_image: "/images/demo/demo-landscape-2.jpg"
 
 ---
-<section class="intro">
-  <div class="wrap">
-    <h1>Meet Peter <span class="wave">👋</span></h1>
+
     <p>I&#39;m a full-stack developer and entrepreneur based in York, England.</p>
     <p>I build beautiful websites and powerful web applications with a wide range of technologies, including PHP, Laravel, JavaScript, Vue, React, Jekyll and WordPress.</p>
   
     <p>Over the last 10 years, I've worked on a wide range of projects, including SaaS platform JobBoard.io, IaaS platform Bytemark Cloud and numerous projects for global firms (such as Thomson Reuters and NHS England), SMEs, charities and startups.</p>
-    <p>&nbsp;</p>
-  </div>
-</section>
 
-  <div class="image-wrap">
-    <a href="/projects">
-      <img src="/images/projects.jpg" style="width:100%; height:auto;"/>
-    </a>
-    <p style="text-align:center; font-style:italic;">A selection of recent projects, see my <a href="/portfolio">portfolio</a> for more details.</p>
-  </div>
+      <img class="md:px-20 full-width" src="/images/projects.jpg"/>
+    
+    <p style="text-align:center; font-style:italic;">A selection of recent projects, see my <a href="/portfolio">portfolio</a> for more details.</p> 
 
-
-
-  <div class="wrap">
-    <div>
       <h3>Nice Things People Have Said</h3>
-      <blockquote><p>Peter is a pro and a pleasure to work with. He&#39;s the type of technical go-to person every team needs, always with an eye on the business case. He&#39;s also very easy to speak too and really knows his stuff.</p>
-        <p><strong>Mike Leigh Cooper - Owner at InkBlot Films</strong></p>
+      <blockquote><p>Peter is a pro and a pleasure to work with. He&#39;s the type of technical go-to person every team needs, always with an eye on the business case. He&#39;s also very easy to speak too and really knows his stuff.</p>  <small>Mike Leigh Cooper - Owner at InkBlot Films</small>
       </blockquote>
 
-      <p>&nbsp;</p>
       <blockquote><p>I had the pleasure of working with Peter on TABLE.co&#39;s new marketing website. He did a pixel-perfect job in taking it from design to code in what was a relatively tight timeframe. The website he delivered was fully responsive, fast-loading and even included some nice loading animations that we hadn&#39;t even considered at the design phase. Intelligent, enthusiastic and attentive to his clients, Peter is someone who does exactly what he says he&#39;s going to do and he does it very well</p>
-        <p><strong>Noel Lynagh - Founder at Table.co</strong></p>
+        <small>Noel Lynagh - Founder at Table.co</small>
       </blockquote>
 
-      <p>&nbsp;</p>
       <blockquote><p>Peter has always given impeccable, prompt, well thought out support and feedback. In short, he is a rock-star!</p>
-        <p><strong>Masad Baba - Attorney</strong></p>
+        <small>Masad Baba - Attorney</small>
       </blockquote>
 
-      <p>&nbsp;</p>
-      <blockquote>Peter really helped drive our Agile process on. His liaising withstakeholders and prioritisation of features were crucial to keeping the engineering team delivering things people actually wanted</p>
-        <p><strong>Patrick Cherry - Engineering Manager, Raspberry Pi</strong></p>
+      <blockquote><p>Peter really helped drive our Agile process on. His liaising withstakeholders and prioritisation of features were crucial to keeping the engineering team delivering things people actually wanted</p>
+        <small>Patrick Cherry - Engineering Manager, Raspberry Pi</small>
       </blockquote>
-    </div>
 
-    <p>&nbsp;</p>
+
     <h3>Hire Me</h3>
     <p>I am available for freelance and contracting roles, as either a Product Owner or Full Stack Developer. </p>
     <p>  <a href="/contact" class="button button--medium">Contact Me</a></p>
 
-  </div>
+  
 <style>
-  .header__title {
-    visibility: hidden;
+  .full-width {
+  left: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: 100vw;
+  position: relative;
+  right: 50%;
+  width: 100vw;
   }
-
-  img {
-    height: 50px;
-    display: inline-block;
-  }
-
   span.wave {
     animation-name: wave-animation;
     /* Refers to the name of your @keyframes element below */

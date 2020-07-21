@@ -139,7 +139,7 @@ color: #3498db
 color: #3498db;
 }
 </style>
-<section class="portfolio">
+<section class="block portfolio">
     <div class="content-wrap portfolio-wrap">
         {% for project in site.projects reversed %}
             <article class="post">
@@ -148,10 +148,10 @@ color: #3498db;
                         <div class="post__image" style="background-image: url({{ project.featured_image  }})" data-cms-original-style="background-image: url({{ project.featured_image  }})"></div>
 
                 </div>
-                <div class="post__content-wrap">
-                    <div class="post__content">
-                        <h2 class="post__title">{{ project.title }}</h2>
-                        <p class="post__subtitle">{{ project.subtitle }}</p>
+                <div class=" post__content-wrap single page__content">
+                    <div class="px-4 mx-auto prose-sm prose post__content sm:prose lg:prose-lg xl:prose-xl">
+                        <h2 class="post__title">{{ project.title }}   <p class="post__subtitle">{{ project.subtitle }}</p></h2>
+                     
                         <p class="post__description">{{ project.description }}</p>
                         <!--<p class="post__readmore"><a href="{{ project.url }}">Read More...</a></p>-->
                     </div>
