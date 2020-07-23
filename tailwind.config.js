@@ -18,6 +18,10 @@ module.exports = {
           h5: {
             fontFamily: 'Muli, sans-serif',
           },
+          blockquote: {
+            fontWeight: '300',
+            fontStyle: 'normal'
+          }
         },
       },
     },

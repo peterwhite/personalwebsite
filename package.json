@@ -10,7 +10,7 @@
     "watch": "^1.0.2"
   },
   "scripts": {
-    "build:css": "postcss css/style.scss -o css/style.css && bundle exec jekyll build",
+    "build": "postcss css/style.scss -o css/style.css && bundle exec jekyll build",
     "watch:css": "watch 'npm run build:css'"
   }
 }
