@@ -1,8 +1,16 @@
 {
   "private": true,
   "dependencies": {
+    "@fullhuman/postcss-purgecss": "^2.3.0",
     "@tailwindcss/typography": "^0.2.0",
+    "autoprefixer": "^9.8.5",
+    "cssnano": "^4.1.10",
     "postcss": "^7.0.32",
-    "tailwindcss": "^1.5.1"
+    "tailwindcss": "^1.5.1",
+    "watch": "^1.0.2"
+  },
+  "scripts": {
+    "build:css": "postcss css/style.scss -o css/style.css && bundle exec jekyll build",
+    "watch:css": "watch 'npm run build:css'"
   }
 }

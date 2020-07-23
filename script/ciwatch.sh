@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-npx tailwindcss build css/style.scss -o css/style.css
+npm run build:css
 bundle exec jekyll serve

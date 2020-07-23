@@ -8,5 +8,5 @@ Check out the project and run following command to test the site:
 bundle exec jekyll serve
 
 # Build the static site locally
-bundle exec jekyll build
+bundle exec jekyll build  
 ```
