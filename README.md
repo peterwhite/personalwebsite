@@ -5,8 +5,8 @@ Check out the project and run following command to test the site:
 
 ```
 # Preview site at http://127.0.0.1:4000/
-bundle exec jekyll serve
+npn run watch
 
 # Build the static site locally
-bundle exec jekyll build
+npn run build
 ```
