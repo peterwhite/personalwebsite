@@ -33,9 +33,7 @@ This causes issues for some analytics tools, which track daily active visitors b
 
 Helpfully Cloudflare does provide the original visitors IP address in an HTTP header called `CF-Connecting-IP`
 
-**How do I fix the issue?**
-
-Provide CF-Connecting-IP to your analytics tool by choosing one of the options below.
+Get the original IP addresses for your visitors into your analytics tool by choosing one of the options below.
 
 * **Cloudflare Enterprise:** Upgrade to Cloudflare Enterprise and enable the True-Client-Ip setting,[ following the instructions here](https://support.cloudflare.com/hc/en-us/articles/206776727-What-is-True-Client-IP-)
 * **Apache or Nginx:** Install `mod_cloudflare` or `mod_remoteip` following the instructions provided by [CloudFlare](https://support.cloudflare.com/hc/en-us/articles/200170786-Restoring-original-visitor-IPs-Logging-visitor-IP-addresses)
