@@ -8,14 +8,16 @@ featured_image: ''
 ---
 If you've moved to Cloudflare and noticed a sudden drop in daily active visitors this is how to solve the problem.
 
-Before we jump into a technical fix, let's eliminate the most common Cloudflare issues first.Check that your DNS records, page rules and SSL configurations are correct. Pay attention to:
+## Check for common Cloudflare issues
+
+Before we jump into a technical fix, let's eliminate the most common Cloudflare issues first. Check that your DNS records, page rules and SSL configurations are correct. Pay attention to:
 
 1. Non-WWW to WWW redirections
 2. Page rules which cause infinite loops
 3. DNS rules are incorrect, or Cloudflare is not enabled
 4. Selecting the wrong flexible, strict or full SSL setting
 
-## **Why have my daily unique visitors dropped after switching to Cloudflare?**
+## Why have my daily unique visitors dropped after switching to Cloudflare?
 
 Before you switched to Cloudflare, visitors connected directly to your server.
 
