@@ -1,6 +1,6 @@
 ---
-title: What to do if your traffic drops after migrating to Cloudflare
-date: 2020-11-11 09:00:00 +0000
+title: What to Do If Your Traffic Drops after Migrating to Cloudflare
+date: 2020-11-11T09:00:00.000+00:00
 description: If you've moved to Cloudflare and noticed a sudden drop in daily active
   visitors this is how to solve the problem step-by-step
 featured_image: ''
