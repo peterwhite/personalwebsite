@@ -1,5 +1,5 @@
 ---
-title: 'Guide: What to do if your traffic drops after migrating to Cloudflare'
+title: What to do if your traffic drops after migrating to Cloudflare
 date: 2020-11-11 09:00:00 +0000
 description: If you've moved to Cloudflare and noticed a sudden drop in daily active
   visitors this is how to solve the problem step-by-step
@@ -8,9 +8,7 @@ featured_image: ''
 ---
 If you've moved to Cloudflare and noticed a sudden drop in daily active visitors this is how to solve the problem.
 
-## **Check for common Cloudflare issues:**
-
-Debugging issues with Cloudflare can be tricky, so let's eliminate the most common issues first. Check that your DNS records, page rules and SSL configurations are correct. Pay attention to:
+Before we jump into a technical fix, let's eliminate the most common Cloudflare issues first.Check that your DNS records, page rules and SSL configurations are correct. Pay attention to:
 
 1. Non-WWW to WWW redirections
 2. Page rules which cause infinite loops
