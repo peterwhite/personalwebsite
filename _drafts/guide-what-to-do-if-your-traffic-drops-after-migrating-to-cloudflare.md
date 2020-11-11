@@ -6,7 +6,7 @@ description: If you've moved to Cloudflare and noticed a sudden drop in daily ac
 featured_image: ''
 
 ---
-If you've moved to Cloudflare and noticed a sudden drop in daily active visitors this is how to solve the problem step-by-step.
+If you've moved to Cloudflare and noticed a sudden drop in daily active visitors this is how to solve the problem.
 
 ## **Check for common Cloudflare issues:**
 
@@ -21,7 +21,11 @@ Debugging issues with Cloudflare can be tricky, so let's eliminate the most comm
 
 Before you switched to Cloudflare, visitors connected directly to your server.
 
+![](/images/getting-started.png)
+
 After switching to Cloudflare, visitors connect to Cloudflare, which then retrieves information from your server as required. This allows Cloudflare to act as a reverse proxy, caching frequently requested files and protecting your server.
+
+![](/images/getting-started-2.png)
 
 As visitors don't connect to your server directly anymore, **you no longer have access to the visitors IP address**.
 
