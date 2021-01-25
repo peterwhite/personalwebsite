@@ -3,9 +3,6 @@ title: Contact
 subtitle: "Email: hi[at]peterwhite.dev"
 ---
 <form class="w-full max-w-lg" method="post" action="https://formspree.io/f/xnqowldn" id="contact-form">
-  <button type="submit">Send</button>
-</form>
-
   <div class="flex flex-wrap mb-2 -mx-3">
     <div class="w-full px-3 mb-2 md:mb-0">
       <label class="block mb-2 text-xs font-bold tracking-wide text-gray-700 uppercase" for="name">
