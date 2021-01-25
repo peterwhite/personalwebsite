@@ -19,7 +19,7 @@ subtitle: "Email: hi[at]peterwhite.dev"
       <label class="block mb-2 text-xs font-bold tracking-wide text-gray-700 uppercase" for="email">
         E-mail
       </label>
-      <input class="block w-full px-4 py-3 mb-3 leading-tight text-gray-700 bg-gray-200 border border-gray-200 rounded appearance-none focus:outline-none focus:bg-white focus:border-gray-500" id="email" type="email" name=""_replyto" required>
+      <input class="block w-full px-4 py-3 mb-3 leading-tight text-gray-700 bg-gray-200 border border-gray-200 rounded appearance-none focus:outline-none focus:bg-white focus:border-gray-500" id="email" type="email" name="_replyto" required>
     </div>
   </div>
   <div class="flex flex-wrap mb-2 -mx-3">
